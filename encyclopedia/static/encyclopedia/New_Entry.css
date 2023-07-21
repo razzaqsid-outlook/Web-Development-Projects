@@ -1,0 +1,15 @@
+#id_title, #id_textarea {
+    display: flex;
+}
+
+#id_title{
+    width: 900px;
+}
+
+#submit {
+    margin-top: 10px;
+    border: none;
+    filter: invert(1);
+    border-radius: 6px;
+    padding: 10px 20px;
+}
